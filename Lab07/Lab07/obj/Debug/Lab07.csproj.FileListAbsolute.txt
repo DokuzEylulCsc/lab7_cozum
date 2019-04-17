@@ -1,0 +1,6 @@
+D:\Dropbox\Dropbox\Project\Lab07\Lab07\bin\Debug\Lab07.exe.config
+D:\Dropbox\Dropbox\Project\Lab07\Lab07\bin\Debug\Lab07.exe
+D:\Dropbox\Dropbox\Project\Lab07\Lab07\bin\Debug\Lab07.pdb
+D:\Dropbox\Dropbox\Project\Lab07\Lab07\obj\Debug\Lab07.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Project\Lab07\Lab07\obj\Debug\Lab07.exe
+D:\Dropbox\Dropbox\Project\Lab07\Lab07\obj\Debug\Lab07.pdb
